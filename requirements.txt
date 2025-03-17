@@ -3,3 +3,4 @@ records[all]~=0.6.0
 pymysql~=1.1.1
 psycopg2-binary~=2.9.10
 cryptography~=44.0.2
+sqlalchemy-redshift~=0.8.14
